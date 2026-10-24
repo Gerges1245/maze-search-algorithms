@@ -53,3 +53,7 @@ python maze_search.py
 ## 🎓 Course
 
 University Artificial Intelligence Course — Python Project
+
+## 👥 Contributors
+   - Gerges ([@Gerges1245](https://github.com/Gerges1245))
+   - Mohamed Bahaa ([@MB1382005](https://github.com/MB1382005))
